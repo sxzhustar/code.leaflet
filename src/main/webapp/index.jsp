@@ -84,7 +84,7 @@
 				center:L.latLng(23.146901,113.280812),
 				mxBounds:L.latLngBounds([22.6,112.2],[23.8,113.7]),//佛山地图边界
 				gaode:'http://webrd0{s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}',
-				rootWFS:'http://localhost:8089/geoserver/test/ows'
+				rootWFS:'http://localhost:8080/geoserver/test/ows'
 				
 		}
 		
